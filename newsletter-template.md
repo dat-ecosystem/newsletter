@@ -24,9 +24,7 @@ _Dat Field Notes_ is an informal collection of resources, notes describing Dat, 
 <a class="btn btn--full btn--green" href="https://blog.datproject.org/2019/03/19/dat-field-notes/">READ MORE!</a>
 
 
-### [__Now Hiring a Developer__](https://blog.codeforscience.org/css-jobs-mlab-openreview/) to revolutionize peer review!
-
-### Support Dat Project, [__make a recurring donation__](https://opencollective.com/dat).
+### Support the Dat Project by [__making a recurring donation__](https://opencollective.com/dat)!
 
 ---
 
