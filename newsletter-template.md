@@ -1,6 +1,6 @@
 > Dat Project Newsletter Template
 
-![Dat Project logo](https://datproject.github.io/design/downloads/dat-data-logo.svg)
+![Dat Project logo](https://datproject.org/public/img/dat-logo.png)
 # Dat Project Newsletter
 _April 2019_
 
